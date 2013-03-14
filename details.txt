@@ -1,0 +1,12 @@
+Brain Tumor:
+Description:
+Brain Tumor is an accurate source of information and guidance about Brain Cancer/Tumor. In this app you can find the best ways of treatment, the causes and symptoms of Brain Tumor, and cure from it in a precise way.
+
+Features:
+•	Fully medicated research based application on Brain Tumor/Brain Cancer(also recommended by Doctors)
+•	The Research results on the causes of Brain Tumor.
+•	The best ways of treatment of Brain Tumor. 
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
